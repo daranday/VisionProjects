@@ -1,0 +1,5 @@
+﻿  Stitcher.cpp
+Stitcher.cpp(9): warning C4081: expected 'newline'; found ';'
+Stitcher.cpp(35): warning C4244: '=': conversion from 'int64' to 'unsigned long', possible loss of data
+Stitcher.cpp(39): warning C4244: '=': conversion from 'int64' to 'unsigned long', possible loss of data
+opencv_core2411d.lib(opencv_core2411d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
